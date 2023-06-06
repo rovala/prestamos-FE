@@ -1,2 +1,2 @@
 # prestamos-FE
-Cliente web aplicativo prestamos. Desarrollado React, javascript y tailwind
+Cliente web aplicativo prestamos. Desarrollado en React, javascript y tailwind
