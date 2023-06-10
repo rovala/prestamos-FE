@@ -18,10 +18,12 @@ export function UrlContextProvider(props){
                              
                              urlsPrestamo:{
                                 urlPrestamo: 'http://localhost:8082/usuario/prestamo',
-                                urlPrestamoDelete: 'http://localhost:8082/usuario/prestamo/delete/'},
+                                urlPrestamoDelete: 'http://localhost:8082/usuario/prestamo/delete/',
+                                urlPrestamoUpdate: 'http://localhost:8082/usuario/prestamo/update'},
 
                              urlsCuota:{
-                                urlCuota:'http://localhost:8082/usuario/cuota'},
+                                urlCuota:'http://localhost:8082/usuario/cuota',
+                                urlCuotaUpdate:'http://localhost:8082/usuario/cuota/update'},
 
                              urlsReporte:{
                                 urlPrestamosCliente:'http://localhost:8082/usuario/reporte/prestamoscliente'
