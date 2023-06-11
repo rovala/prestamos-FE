@@ -147,7 +147,6 @@ export const RegistrarPago = () => {
         fetchdata()
     }, [])
 
-
     const handleDoubleClickTelefono = () => {
         if (!indicadorGrabacion) return
         const urlwsp = 'https://wa.me/51' + telefonoRef.current.value
